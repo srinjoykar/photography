@@ -1,0 +1,104 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.test.com" resolutions="1x" timestamp="1589787386806">
+  <folder name="css">
+    <file name="site_global.css" crc="3771652255"/>
+    <file name="master_a-master.css" crc="465740332" ref="awards-won:index:gallery:about"/>
+    <file name="awards-won.css" crc="330688021" ref="awards-won"/>
+    <file name="index.css" crc="4184814266" ref="index"/>
+    <file name="gallery.css" crc="4096127176" ref="gallery"/>
+    <file name="about.css" crc="4216344317" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:awards-won:gallery"/>
+    <file name="museutils.js" crc="4216313831" ref="index:about:awards-won:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:awards-won:gallery"/>
+    <file name="museconfig.js" crc="474374037" ref="index:about:awards-won:gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:about"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:about:awards-won:gallery"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:about:awards-won:gallery"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:about:awards-won:gallery"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:awards-won:gallery"/>
+    <file name="require.js" crc="3951022091" ref="index:about:awards-won:gallery"/>
+    <file name="webpro.js" crc="4143865194" ref="about:gallery"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="about"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="gallery"/>
+    <file name="touchswipe.js" crc="4200445185" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3959286483" ref="index"/>
+    <file name="61039004_1163312397163834_3838260026413756399_n.jpg" crc="448423980" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u100-4.png" crc="4101025318" ref="index:about:awards-won:gallery"/>
+    <file name="u212-4.png" crc="401547512" ref="index:about:awards-won:gallery"/>
+    <file name="u223-4.png" crc="3793360393" ref="index:about:awards-won:gallery"/>
+    <file name="u229-4.png" crc="4271319063" ref="index:about:awards-won:gallery"/>
+    <file name="u237-4.png" crc="417313110" ref="index:about:awards-won:gallery"/>
+    <file name="my dp.jpg" crc="442762738" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-u306-fr.png" crc="3938578727" ref="index"/>
+    <file name="u296-6.png" crc="177097235" ref="index"/>
+    <file name="instagram.jpg" crc="262234100" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram 1.jpg" crc="141139167" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="about:gallery"/>
+    <file name="u335.png" crc="159208132" ref="about"/>
+    <file name="u335-r.png" crc="111064639" ref="about"/>
+    <file name="u335-m.png" crc="111064639" ref="about"/>
+    <file name="u335-a.png" crc="3893014092" ref="about"/>
+    <file name="morning at neermahal.jpg" crc="272701400" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u334-4.png" crc="3958638686" ref="about"/>
+    <file name="u337.png" crc="131678467" ref="about"/>
+    <file name="u337-r.png" crc="3846041882" ref="about"/>
+    <file name="u337-m.png" crc="3846041882" ref="about"/>
+    <file name="u337-a.png" crc="479173536" ref="about"/>
+    <file name="maigret.jpg" crc="394840761" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u329.png" crc="265235841" ref="about"/>
+    <file name="u329-r.png" crc="4099309492" ref="about"/>
+    <file name="u329-m.png" crc="4099309492" ref="about"/>
+    <file name="u329-a.png" crc="4147469099" ref="about"/>
+    <file name="dsc_0163.jpg" crc="3953933376" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u331-5.png" crc="281636065" ref="about"/>
+    <file name="u341.png" crc="4207674759" ref="about"/>
+    <file name="u341-r.png" crc="481110852" ref="about"/>
+    <file name="u341-m.png" crc="481110852" ref="about"/>
+    <file name="u341-a.png" crc="293507797" ref="about"/>
+    <file name="rimpa high.jpg" crc="35067644" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u522-23.png" crc="3891092552" ref="awards-won"/>
+    <file name="highland princess.jpg" crc="99137511" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="90707509_895336190902465_7783420117220203355_n-crop-u457.jpg" crc="83369568" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jungle traffic.jpg" crc="4108884671" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="blessed.jpg" crc="4259322326" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cyclist-crop-u499.jpg" crc="4238235996" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dark forrest.jpg" crc="428714708" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+  </folder>
+  <file name="index.html" crc="3874482355" seo="true" mt="1587628154288" redirect="true"/>
+  <file name="about.html" crc="3831359664" seo="true" mt="1587628216454" redirect="true"/>
+  <file name="awards-won.html" crc="3778043840" seo="true" mt="1589787278162" redirect="true"/>
+  <file name="gallery.html" crc="4292279743" seo="true" mt="1587624744297" redirect="true"/>
+</manifest>
